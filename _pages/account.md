@@ -3,7 +3,7 @@ ID: 174
 post_title: Account
 author: ng23055
 post_excerpt: ""
-layout: post
+layout: page
 permalink: >
   http://inthespotlight.shepherdmaplesyrupfestival.com/account
 published: true
