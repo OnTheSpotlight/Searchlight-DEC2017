@@ -3,7 +3,7 @@ ID: 166
 post_title: Login
 author: ng23055
 post_excerpt: ""
-layout: post
+layout: page
 permalink: >
   http://inthespotlight.shepherdmaplesyrupfestival.com/login
 published: true
