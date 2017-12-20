@@ -1,6 +1,6 @@
 ---
 ID: 159
-post_title: Knowledge Base
+post_title: Collections
 author: ng23055
 post_excerpt: ""
 layout: page
