@@ -3,7 +3,7 @@ ID: 172
 post_title: Logout
 author: ng23055
 post_excerpt: ""
-layout: post
+layout: page
 permalink: >
   http://inthespotlight.shepherdmaplesyrupfestival.com/logout
 published: true
