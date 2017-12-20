@@ -3,7 +3,7 @@ ID: 176
 post_title: Password Reset
 author: ng23055
 post_excerpt: ""
-layout: post
+layout: page
 permalink: >
   http://inthespotlight.shepherdmaplesyrupfestival.com/password-reset
 published: true
