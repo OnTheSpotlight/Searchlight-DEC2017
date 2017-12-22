@@ -9,8 +9,6 @@ permalink: >
 published: true
 post_date: 2017-12-21 23:20:09
 ---
-&nbsp;
-
 While watching “Star Trek: Beyond,” I began to think a little bit about how much the recent “Star Trek” have borrowed from Star Wars. Indeed, the first movie in the rebooted version of Star Trek has been described as taking many elements from Star Wars.
 
 This is a shift from Star Trek’s best strengths. Original episodes often tackled significant topics and action was secondary. This changed when Star Trek came back in the late 70’s and 80’s as a movie, where the stories needed to be far more action packed.
