@@ -1,1 +1,3 @@
-# Searchlight-DEC2017
+# The Searchlight
+
+## December 2017
