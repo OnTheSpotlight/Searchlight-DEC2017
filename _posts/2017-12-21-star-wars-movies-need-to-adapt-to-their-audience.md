@@ -23,6 +23,6 @@ As movies go, “The Last Jedi” isn’t bad. There have definitely been worse.
 
 I think the source of the problems with these latest “Star Wars” movies is that they are trying too hard to follow the templates laid out by the original trilogy, and then later the prequels. What they really should do is to try to find a way to redefine what a Star Wars movie really should be in the modern age. They could take a page from the plan the producers of “Star Trek: Discovery” are following.
 
-# 30 #
+## 30 ##
 
 <a href="https://docs.google.com/document/d/1mtRn6S6Mo6w65OP_9Glx3mbKzMNLVB-0aurED6Du4K8/edit?usp=sharing">Edit Google Doc</a>
