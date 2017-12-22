@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2017-12-21 23:20:09
 ---
-<img title="" src="http://searchlight.shepherdmaplesyrupfestival.com/wp-content/uploads/2017/12/null.png" alt="" width="624" height="429" />
+&nbsp;
 
 While watching “Star Trek: Beyond,” I began to think a little bit about how much the recent “Star Trek” have borrowed from Star Wars. Indeed, the first movie in the rebooted version of Star Trek has been described as taking many elements from Star Wars.
 
